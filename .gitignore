@@ -1,3 +1,4 @@
 *.[oa]
 /build
 /doc/*.txt
+/doc/**/*.a
